@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Condo for sale]]></title>
+		<content><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.]]></content>
+		<imageurl><![CDATA[http://listed420.com/update/wp-content/uploads/2018/01/default_image.jpg|http://listed420.com/update/wp-content/uploads/2016/02/15.png|http://listed420.com/update/wp-content/uploads/2016/02/house-5.jpg]]></imageurl>
+		<type><![CDATA[Condo]]></type>
+		<status><![CDATA[For Rent]]></status>
+		<city><![CDATA[]]></city>
+		<countystate><![CDATA[Florida]]></countystate>
+		<fave_property_size><![CDATA[1200]]></fave_property_size>
+		<fave_property_size_prefix><![CDATA[Sq Ft]]></fave_property_size_prefix>
+		<fave_property_year><![CDATA[01/09/16]]></fave_property_year>
+		<fave_property_price><![CDATA[]]></fave_property_price>
+		<fave_property_map><![CDATA[0]]></fave_property_map>
+		<fave_property_map_address><![CDATA[408 91st St, Surfside, FL 33154, Stati Uniti]]></fave_property_map_address>
+		<fave_property_location><![CDATA[25.877738,-80.123963,14]]></fave_property_location>
+		<fave_property_country><![CDATA[US]]></fave_property_country>
+		<fave_additional_features_enable><![CDATA[enable]]></fave_additional_features_enable>
+		<additional_features><![CDATA[a:6:{i:0;a:2:{s:29:"fave_additional_feature_title";s:7:"Deposit";s:29:"fave_additional_feature_value";s:3:"20%";}i:1;a:2:{s:29:"fave_additional_feature_title";s:9:"Pool Size";s:29:"fave_additional_feature_value";s:8:"300 Sqft";}i:2;a:2:{s:29:"fave_additional_feature_title";s:17:"Last remodel year";s:29:"fave_additional_feature_value";s:4:"1987";}i:3;a:2:{s:29:"fave_additional_feature_title";s:9:"Amenities";s:29:"fave_additional_feature_value";s:9:"Clubhouse";}i:4;a:2:{s:29:"fave_additional_feature_title";s:17:"Additional Rooms:";s:29:"fave_additional_feature_value";s:10:"Guest Bath";}i:5;a:2:{s:29:"fave_additional_feature_title";s:9:"Equipment";s:29:"fave_additional_feature_value";s:11:"Grill - Gas";}}]]></additional_features>
+		<fave_property_address><![CDATA[408 91st St]]></fave_property_address>
+		<fave_property_zip><![CDATA[33140]]></fave_property_zip>
+		<houzez_geolocation_long><![CDATA[-80.123963]]></houzez_geolocation_long>
+		<houzez_geolocation_lat><![CDATA[25.877738]]></houzez_geolocation_lat>
+		<status_2><![CDATA[publish]]></status_2>
+		<author><![CDATA[1]]></author>
+		<slug><![CDATA[dondo-for-sale]]></slug>
+	</node>
+	<node>
+		<title><![CDATA[property1]]></title>
+		<content><![CDATA[Light Industrial (10% improved office space; Machine Shop)
+]]></content>
+		<imageurl><![CDATA[http://listed420.com/update/wp-content/uploads/2018/01/default_image.jpg]]></imageurl>
+		<type><![CDATA[LIGHT INDUSTRIAL]]></type>
+		<status><![CDATA[For Sale]]></status>
+		<city><![CDATA[Costa Mesa]]></city>
+		<countystate><![CDATA[California]]></countystate>
+		<fave_property_size><![CDATA[63000]]></fave_property_size>
+		<fave_property_size_prefix><![CDATA[]]></fave_property_size_prefix>
+		<fave_property_year><![CDATA[1976]]></fave_property_year>
+		<fave_property_price><![CDATA[4410000]]></fave_property_price>
+		<fave_property_map><![CDATA[1]]></fave_property_map>
+		<fave_property_map_address><![CDATA[1545 MacArthur Blvd, Costa Mesa, CA 92626, USA]]></fave_property_map_address>
+		<fave_property_location><![CDATA[33.7010882,-117.92152870000001,14]]></fave_property_location>
+		<fave_property_country><![CDATA[US]]></fave_property_country>
+		<fave_additional_features_enable><![CDATA[enable]]></fave_additional_features_enable>
+		<additional_features><![CDATA[a:16:{i:0;a:2:{s:29:"fave_additional_feature_title";s:17:"ASSESSEDLandValue";s:29:"fave_additional_feature_value";s:7:"3111741";}i:1;a:2:{s:29:"fave_additional_feature_title";s:22:"AssessedImprovePercent";s:29:"fave_additional_feature_value";s:12:"0.3049886404";}i:2;a:2:{s:29:"fave_additional_feature_title";s:24:"AssessedImprovementValue";s:29:"fave_additional_feature_value";s:7:"1365511";}i:3;a:2:{s:29:"fave_additional_feature_title";s:19:"AnnivRecordingMonth";s:29:"fave_additional_feature_value";s:2:"12";}i:4;a:2:{s:29:"fave_additional_feature_title";s:12:"AssessedYear";s:29:"fave_additional_feature_value";s:4:"2016";}i:5;a:2:{s:29:"fave_additional_feature_title";s:18:"TotalAssessedValue";s:29:"fave_additional_feature_value";s:7:"4477252";}i:6;a:2:{s:29:"fave_additional_feature_title";s:7:"TaxYear";s:29:"fave_additional_feature_value";s:4:"2017";}i:7;a:2:{s:29:"fave_additional_feature_title";s:15:"TaxRateCodeArea";s:29:"fave_additional_feature_value";s:6:"15-052";}i:8;a:2:{s:29:"fave_additional_feature_title";s:9:"TaxAmount";s:29:"fave_additional_feature_value";s:8:"56670.98";}i:9;a:2:{s:29:"fave_additional_feature_title";s:9:"LotNumber";s:29:"fave_additional_feature_value";s:1:"1";}i:10;a:2:{s:29:"fave_additional_feature_title";s:5:"Tract";s:29:"fave_additional_feature_value";s:4:"1083";}i:11;a:2:{s:29:"fave_additional_feature_title";s:8:"NumUnits";s:29:"fave_additional_feature_value";s:1:"2";}i:12;a:2:{s:29:"fave_additional_feature_title";s:10:"NumStories";s:29:"fave_additional_feature_value";s:1:"1";}i:13;a:2:{s:29:"fave_additional_feature_title";s:12:"LotAreaUnits";s:29:"fave_additional_feature_value";s:2:"AC";}i:14;a:2:{s:29:"fave_additional_feature_title";s:7:"LotArea";s:29:"fave_additional_feature_value";s:4:"1.79";}i:15;a:2:{s:29:"fave_additional_feature_title";s:12:"OwnerName(s)";s:29:"fave_additional_feature_value";s:20:"1545 W Macarthur Llc";}}]]></additional_features>
+		<fave_property_address><![CDATA[1545 Macarthur Blvd
+]]></fave_property_address>
+		<fave_property_zip><![CDATA[92626]]></fave_property_zip>
+		<houzez_geolocation_long><![CDATA[-117.92152870000001]]></houzez_geolocation_long>
+		<houzez_geolocation_lat><![CDATA[33.7010882]]></houzez_geolocation_lat>
+		<status_2><![CDATA[publish]]></status_2>
+		<author><![CDATA[1]]></author>
+		<slug><![CDATA[property1]]></slug>
+	</node>
+</data>

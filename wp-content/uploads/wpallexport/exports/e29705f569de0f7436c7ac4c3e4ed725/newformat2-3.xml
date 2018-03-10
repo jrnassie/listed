@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[3454]]></id>
+		<title><![CDATA[Condo for sale]]></title>
+		<imageurl><![CDATA[http://listed420.com/update/wp-content/uploads/2018/01/default_image.jpg|http://listed420.com/update/wp-content/uploads/2016/02/15.png|http://listed420.com/update/wp-content/uploads/2016/02/house-5.jpg]]></imageurl>
+		<status><![CDATA[For Rent]]></status>
+		<status_2><![CDATA[publish]]></status_2>
+		<author><![CDATA[1]]></author>
+		<slug><![CDATA[dondo-for-sale]]></slug>
+		<apn><![CDATA[415-041-03]]></apn>
+		<fave_property_address><![CDATA[408 91st St]]></fave_property_address>
+		<city><![CDATA[]]></city>
+		<countystate><![CDATA[Florida]]></countystate>
+		<fave_property_zip><![CDATA[33140]]></fave_property_zip>
+		<pzip4><![CDATA[1407]]></pzip4>
+		<punitnumber><![CDATA[O105]]></punitnumber>
+		<punittype><![CDATA[#]]></punittype>
+		<pstreetname><![CDATA[Macarthur]]></pstreetname>
+		<pstreetprefix><![CDATA[S]]></pstreetprefix>
+		<pstreetsuffix><![CDATA[S]]></pstreetsuffix>
+		<pstreettype><![CDATA[Blvd]]></pstreettype>
+		<fave_property_country><![CDATA[US]]></fave_property_country>
+		<mailaddress><![CDATA[1561 Macarthur Blvd]]></mailaddress>
+		<mcity><![CDATA[Costa Mesa]]></mcity>
+		<mstate><![CDATA[CA]]></mstate>
+		<mzip><![CDATA[92626]]></mzip>
+		<mzip4><![CDATA[1407]]></mzip4>
+		<munitnumber><![CDATA[855]]></munitnumber>
+		<munittype><![CDATA[Ste]]></munittype>
+		<ownernames><![CDATA[1545 W Macarthur Llc]]></ownernames>
+		<ownername_formatted><![CDATA[1545 W Macarthur Llc]]></ownername_formatted>
+		<owner1fname><![CDATA[1545 W Macarthur Llc]]></owner1fname>
+		<owner1lname><![CDATA[1545 W Macarthur Llc]]></owner1lname>
+		<owner1mname><![CDATA[1545 W Macarthur Llc]]></owner1mname>
+		<owner2fname><![CDATA[1545 W Macarthur Llc]]></owner2fname>
+		<owner2lname><![CDATA[1545 W Macarthur Llc]]></owner2lname>
+		<owner2mname><![CDATA[1545 W Macarthur Llc]]></owner2mname>
+		<transfervalue><![CDATA[4410000]]></transfervalue>
+		<lastsaledate><![CDATA[12/09/14]]></lastsaledate>
+		<lastcontractdate><![CDATA[11/04/14]]></lastcontractdate>
+		<lastsaledocnumber><![CDATA[2.01E+012]]></lastsaledocnumber>
+		<lastsalebooknumber><![CDATA[#]]></lastsalebooknumber>
+		<lastsalepagenumber><![CDATA[#]]></lastsalepagenumber>
+		<saletype><![CDATA[R]]></saletype>
+		<owneroccupied><![CDATA[Y]]></owneroccupied>
+		<propertytype><![CDATA[CO3]]></propertytype>
+		<content><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.]]></content>
+		<fave_property_size><![CDATA[63000]]></fave_property_size>
+		<fave_property_land><![CDATA[1.79]]></fave_property_land>
+		<fave_property_land_postfix><![CDATA[AC]]></fave_property_land_postfix>
+		<numstories><![CDATA[1]]></numstories>
+		<numunits><![CDATA[2]]></numunits>
+		<yearbuilt><![CDATA[1976]]></yearbuilt>
+		<pool><![CDATA[1]]></pool>
+		<tract><![CDATA[1083]]></tract>
+		<lotnumber><![CDATA[1]]></lotnumber>
+		<areacode><![CDATA[714]]></areacode>
+		<taxamount><![CDATA[56670.98]]></taxamount>
+		<delinquent><![CDATA[N]]></delinquent>
+		<taxratecodearea><![CDATA[15-052]]></taxratecodearea>
+		<taxyear><![CDATA[2017]]></taxyear>
+		<totalassessedvalue><![CDATA[4477252]]></totalassessedvalue>
+		<assessedyear><![CDATA[2016]]></assessedyear>
+		<annivrecordingmonth><![CDATA[12]]></annivrecordingmonth>
+		<assessedimprovementvalue><![CDATA[1365511]]></assessedimprovementvalue>
+		<assessedimprovepercent><![CDATA[0.30498864]]></assessedimprovepercent>
+		<assessedlandvalue><![CDATA[3111741]]></assessedlandvalue>
+		<censustract><![CDATA[639.07]]></censustract>
+		<fips><![CDATA[6059]]></fips>
+		<landuse><![CDATA[5002]]></landuse>
+		<houzez_geolocation_lat><![CDATA[25.877738]]></houzez_geolocation_lat>
+		<legaldescription><![CDATA[LOT:1       TR#:1083       N TR 1083 BLK LOT 1 TR 1083 LOT 1 POR OF LOT 
+]]></legaldescription>
+		<houzez_geolocation_long><![CDATA[-80.123963]]></houzez_geolocation_long>
+		<fave_property_price><![CDATA[4410000]]></fave_property_price>
+		<type><![CDATA[Condo|LIGHT INDUSTRIAL]]></type>
+		<fave_property_map><![CDATA[0]]></fave_property_map>
+		<fave_property_map_address><![CDATA[408 91st St, Surfside, FL 33154, Stati Uniti]]></fave_property_map_address>
+		<fave_property_location><![CDATA[25.877738,-80.123963,14]]></fave_property_location>
+		<fave_property_map_street_view><![CDATA[show]]></fave_property_map_street_view>
+	</node>
+	<node>
+		<id><![CDATA[3471]]></id>
+		<title><![CDATA[property2]]></title>
+		<imageurl><![CDATA[http://listed420.com/update/wp-content/uploads/2018/01/default_image.jpg]]></imageurl>
+		<status><![CDATA[For Sale]]></status>
+		<status_2><![CDATA[publish]]></status_2>
+		<author><![CDATA[1]]></author>
+		<slug><![CDATA[property2]]></slug>
+		<apn><![CDATA[139-651-29]]></apn>
+		<fave_property_address><![CDATA[1545 Macarthur Blvd]]></fave_property_address>
+		<city><![CDATA[Costa Mesa]]></city>
+		<countystate><![CDATA[California]]></countystate>
+		<fave_property_zip><![CDATA[92626]]></fave_property_zip>
+		<pzip4><![CDATA[1410]]></pzip4>
+		<punitnumber><![CDATA[]]></punitnumber>
+		<punittype><![CDATA[]]></punittype>
+		<pstreetname><![CDATA[]]></pstreetname>
+		<pstreetprefix><![CDATA[]]></pstreetprefix>
+		<pstreetsuffix><![CDATA[]]></pstreetsuffix>
+		<pstreettype><![CDATA[]]></pstreettype>
+		<fave_property_country><![CDATA[US]]></fave_property_country>
+		<mailaddress><![CDATA[]]></mailaddress>
+		<mcity><![CDATA[]]></mcity>
+		<mstate><![CDATA[]]></mstate>
+		<mzip><![CDATA[]]></mzip>
+		<mzip4><![CDATA[]]></mzip4>
+		<munitnumber><![CDATA[]]></munitnumber>
+		<munittype><![CDATA[]]></munittype>
+		<ownernames><![CDATA[]]></ownernames>
+		<ownername_formatted><![CDATA[]]></ownername_formatted>
+		<owner1fname><![CDATA[]]></owner1fname>
+		<owner1lname><![CDATA[]]></owner1lname>
+		<owner1mname><![CDATA[]]></owner1mname>
+		<owner2fname><![CDATA[]]></owner2fname>
+		<owner2lname><![CDATA[]]></owner2lname>
+		<owner2mname><![CDATA[]]></owner2mname>
+		<transfervalue><![CDATA[]]></transfervalue>
+		<lastsaledate><![CDATA[]]></lastsaledate>
+		<lastcontractdate><![CDATA[]]></lastcontractdate>
+		<lastsaledocnumber><![CDATA[]]></lastsaledocnumber>
+		<lastsalebooknumber><![CDATA[]]></lastsalebooknumber>
+		<lastsalepagenumber><![CDATA[]]></lastsalepagenumber>
+		<saletype><![CDATA[]]></saletype>
+		<owneroccupied><![CDATA[]]></owneroccupied>
+		<propertytype><![CDATA[]]></propertytype>
+		<content><![CDATA[Light Industrial (10% improved office space; Machine Shop)]]></content>
+		<fave_property_size><![CDATA[63000]]></fave_property_size>
+		<fave_property_land><![CDATA[]]></fave_property_land>
+		<fave_property_land_postfix><![CDATA[]]></fave_property_land_postfix>
+		<numstories><![CDATA[]]></numstories>
+		<numunits><![CDATA[]]></numunits>
+		<yearbuilt><![CDATA[]]></yearbuilt>
+		<pool><![CDATA[]]></pool>
+		<tract><![CDATA[]]></tract>
+		<lotnumber><![CDATA[]]></lotnumber>
+		<areacode><![CDATA[]]></areacode>
+		<taxamount><![CDATA[]]></taxamount>
+		<delinquent><![CDATA[]]></delinquent>
+		<taxratecodearea><![CDATA[]]></taxratecodearea>
+		<taxyear><![CDATA[]]></taxyear>
+		<totalassessedvalue><![CDATA[]]></totalassessedvalue>
+		<assessedyear><![CDATA[]]></assessedyear>
+		<annivrecordingmonth><![CDATA[]]></annivrecordingmonth>
+		<assessedimprovementvalue><![CDATA[]]></assessedimprovementvalue>
+		<assessedimprovepercent><![CDATA[]]></assessedimprovepercent>
+		<assessedlandvalue><![CDATA[]]></assessedlandvalue>
+		<censustract><![CDATA[]]></censustract>
+		<fips><![CDATA[]]></fips>
+		<landuse><![CDATA[]]></landuse>
+		<houzez_geolocation_lat><![CDATA[33.7010882]]></houzez_geolocation_lat>
+		<legaldescription><![CDATA[]]></legaldescription>
+		<houzez_geolocation_long><![CDATA[-117.92152870000001]]></houzez_geolocation_long>
+		<fave_property_price><![CDATA[4410000]]></fave_property_price>
+		<type><![CDATA[LIGHT INDUSTRIAL]]></type>
+		<fave_property_map><![CDATA[1]]></fave_property_map>
+		<fave_property_map_address><![CDATA[1545 MacArthur Blvd, Costa Mesa, CA 92626, USA]]></fave_property_map_address>
+		<fave_property_location><![CDATA[33.7010882,-117.92152870000001,14]]></fave_property_location>
+		<fave_property_map_street_view><![CDATA[hide]]></fave_property_map_street_view>
+	</node>
+</data>

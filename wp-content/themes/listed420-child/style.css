@@ -1,0 +1,99 @@
+/*
+
+Theme Name: Listed420 Child
+
+Theme URI: http://www.favethemes.com/
+
+Author: Favethemes
+
+Author URI: http://www.favethemes.com/
+
+Description: Listed420 is a premium WordPress theme for real estate agents where modern aesthetics are combined with tasteful simplicity, and where the ease of use is achieved without compromise in your ability to customise the design. Whether you are a real estate agent looking to build a website for your company or a web developer seeking a perfect WordPress theme for your next project, you are certain to appreciate the numerous features and benefits that our theme provides.
+
+Version: 1.0
+
+Tags: white, right-sidebar, left-sidebar, custom-colors, custom-menu, featured-images, post-formats, theme-options, translation-ready
+
+License: GNU General Public License version 3.0
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Text Domain: listed420
+
+Template: listed420
+
+*/
+
+
+
+
+
+@import url("../listed420/style.css");
+
+
+
+/* Your CSS code goes here
+
+-------------------------------------- */
+
+.form-design input[type="text"], .form-design input[type="email"], 
+.form-design input[type="tel"]{ width:47%; }
+.form-design .wpcf7-form-control-wrap.your-name, .form-design .wpcf7-form-control-wrap.last-name{ float: left; width: 100%;}
+.form-design .wpcf7-form-control-wrap.your-name input[type="text"]{ width:95%; margin-right:5%; }
+.form-design .wpcf7-form-control-wrap.last-name input[type="text"]{ width:95%; margin-left: 5%; }
+.form-design .wpcf7-form p{ float: left; width: 100%; margin-bottom: 15px!important; }
+.form-design select{ width: 47%;     height: 40px;  border: 1px solid #ccc;     border-radius: 4px;}
+div.wpcf7-response-output{ float: left; margin: 0; }
+.form-design .wpcf7-form p sup {
+    color: red;     
+    margin-left: 5px;
+    font-size: 12px;
+    line-height: 2px;
+    font-weight: bold;
+}
+
+.form-insurance .your-address input, .form-insurance .your-address2 input{ width: 100%; }
+.form-design .wpcf7-form-control-wrap.your-city, .form-design .wpcf7-form-control-wrap.your-state{ float: left; width: 100%;}
+.form-design .wpcf7-form-control-wrap.your-city input[type="text"]{ width:95%; margin-right:5%; }
+.form-design .wpcf7-form-control-wrap.your-state input[type="text"]{ width:95%; margin-left: 5%; }
+
+.form-design .wpcf7-form-control-wrap.your-zipcode, .form-design .wpcf7-form-control-wrap.your-country{ float: left; width: 100%;}
+.form-design .wpcf7-form-control-wrap.your-zipcode input[type="text"]{ width:95%; margin-right:5%; }
+.form-design .wpcf7-form-control-wrap.your-country select{ width:95%; margin-left: 5%; }
+
+.radio-select span.wpcf7-list-item{ margin-left: 0; width: 100%; }
+
+
+span.left-content, span.right-content {   float: left;   width: 50%;} 
+span.full-content { float: left; width: 100%; }
+span.right-content strong {    margin-left: 5%;}
+.custom-popup #lost-pass{ display: none; }
+.property-item .figure-block .hover-effect img, .owl-item .figure-block .hover-effect img {
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+.property-item a.hover-effect, .owl-item a.hover-effect{
+    height: 189px;
+    overflow: hidden;
+    position: relative;
+}
+.detail-top-grid #gallery {
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.detail-top .tab-pane {
+    width: 100%;
+    min-height: 597px;
+    margin: 0 auto;
+}
+.detail-top .tab-content {
+    position: relative;
+    background: gray;
+}
+.property-listing.list-view .figure-block {
+    height: auto;
+}
+.owl-item a.hover-effect{ height: 232px;}
