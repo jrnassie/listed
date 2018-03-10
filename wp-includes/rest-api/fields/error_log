@@ -1,0 +1,12 @@
+[26-Oct-2017 01:05:19 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[26-Oct-2017 01:05:27 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[26-Oct-2017 01:05:35 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[26-Oct-2017 01:06:07 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[06-Mar-2018 12:11:48 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[06-Mar-2018 17:12:56 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[06-Mar-2018 19:44:30 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[06-Mar-2018 21:00:18 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[09-Mar-2018 20:31:59 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[09-Mar-2018 20:32:08 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[09-Mar-2018 20:32:17 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[09-Mar-2018 20:32:27 America/Chicago] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/listed420/public_html/update/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17

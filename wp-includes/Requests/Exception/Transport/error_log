@@ -1,0 +1,2 @@
+[26-Oct-2017 01:12:48 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/listed420/public_html/update/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[07-Mar-2018 22:47:44 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/listed420/public_html/update/wp-includes/Requests/Exception/Transport/cURL.php on line 3

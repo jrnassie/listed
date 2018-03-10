@@ -1,0 +1,6 @@
+[25-Oct-2017 09:02:17 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[25-Oct-2017 09:02:26 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[09-Feb-2018 16:24:46 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[10-Feb-2018 03:31:36 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[09-Mar-2018 20:25:53 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[09-Mar-2018 20:26:12 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/listed420/public_html/update/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
